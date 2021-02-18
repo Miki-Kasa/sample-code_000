@@ -1,4 +1,4 @@
-# sample-code_001
+# sample-code_000
 Credential Dumping and Reverse shell
 
 laZagneが持つ機能の1つであるクレデンシャルダンピングを行い、その後リバースシェルを確立するといったシンプルなスクリプトとなります。
