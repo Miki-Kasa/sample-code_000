@@ -1,4 +1,5 @@
 # sample-code_001
 Credential Dumping and Reverse shell
+
 laZagneが持つ機能の1つであるクレデンシャルダンピングを行い、その後リバースシェルを確立するといったシンプルなスクリプトとなります。
 Antimalware Scan Interfaceをバイパスすることが出来る為，本スクリプトをペンテスターの活動の際に使用しておりました。
